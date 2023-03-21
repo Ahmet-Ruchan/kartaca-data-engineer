@@ -24,6 +24,6 @@ Hata ayıklama, herhangi bir geliştirme işinde önemli bir adımdır. Airflow 
 # Süreci Başarı İle Tamamlayabildim Mi?
 Açıkçası bu süreci başarı ile tamamlayamadığımı düşünüyorum. Daha önce Airflow ve Docker kullanmamıştım aynı zamanda bir iş üzerinde MySQL tecrübem de hiç yoktu. Bu teknolojileri öğrenmek ve başarılı bir şekilde gerçek bir iş üzerinde uygulamak için üzerinde daha fazla çalışmam gerekiyor. 
 
-Son olarak söylemem gerekiyor ki ben hala bir öğrenciyim ve öğrenim sürecim devam etmekte. Bir stajyer olarak firmya Kartaca bünyesine girmeyi ve içeride öğrenmeyi gerçekten çok istiyorum. Kendimi bir işe adadığım zaman her şeyi çok hızlı öğrenirim. Bana bu fırsatı verdiğiniz için teşekkür ederim.
+Son olarak söylemem gerekiyor ki ben hala bir öğrenciyim ve öğrenim sürecim devam etmekte. Bir stajyer olarak Kartaca bünyesine girmeyi ve içeride öğrenmeyi gerçekten çok istiyorum. Kendimi bir işe adadığım zaman her şeyi çok hızlı öğrenirim. Bana bu fırsatı verdiğiniz için teşekkür ederim.
 
 Saygılarımla Ahmet Ruçhan Avcı
