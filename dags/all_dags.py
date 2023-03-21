@@ -94,7 +94,7 @@ def log_started():
     print('DAG started running at: ' + str(datetime.now()))
 
 def fetch_currency():
-    url = 'https://raw.githubusercontent.com/hakanensari/mysql-test/main/country_currency.json'
+    url = 'country_currency.json'
     response = requests.get(url)
     currency_data = json.loads(response.text)
     return currency_data
